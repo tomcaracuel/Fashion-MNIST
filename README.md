@@ -2,7 +2,7 @@
 Machine Learning | Simple red neuronal para clasificar ropa
 
 
-Red neuronal con keras
+Red neuronal con keras <br/>
 
 Dataset fashion-MNIST:
 ![dataset](https://user-images.githubusercontent.com/66931754/103691378-d39cc780-4f74-11eb-9020-0c4e31955ff8.png)
